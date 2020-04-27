@@ -1,37 +1,86 @@
-## Welcome to GitHub Pages
+/* ---------Style for table------------- */
+body, td, th, tr, p, a {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 14px
+}
 
-You can use the [editor on GitHub](https://github.com/Wang-Xinkai/Wang-Xinkai.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+/* ---------Style for table------------- */
+table {
+    border: 0;
+    margin: auto;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+/* Inherit from table and set its width */
+#main-table {
+    width: 800px
+}
 
-### Markdown
+/* Inherit from table and set its width */
+.sub-table {
+    width: 100%;
+}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+/* ---------Style for td-------------------- */
 
-```markdown
-Syntax highlighted code block
+/* td-with-padding */
+.td-with-padding {
+    padding: 20px;
+    width: 100%;
+}
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+/* ---------Style for p-------------------- */
+.p-center {
+    text-align: center;
+}
 
-1. Numbered
-2. List
+#email {
+    font-family: monospace;
+    font-size: 14px;
+    color: #c56900;
+}
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+/* ---------Style for name-------------------- */
+name {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 34px;
+}
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+/* ---------Style for span-------------------- */
+.emphasis {
+    color: #c56900;
+}
 
-### Jekyll Themes
+.align-right {
+    float: right;
+    text-align: right;
+}
+/* ---------Style for a-------------------- */
+a {
+    color: #1772d0;
+    text-decoration: none;
+}
+a:focus,
+a:hover {
+    color: #f09228;
+    text-decoration: none;
+} 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Wang-Xinkai/Wang-Xinkai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+/* ---------Style for li-------------------- */
+.li-margin {
+    margin-bottom: 10px;
+}
+/* ---------Style for my image-------------------- */
+#Weiqi-image {
+    width: 200px;
+    border-radius: 125px;
+}
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+/* ---------Style for heading-------------------- */
+heading {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 22px;
+}
