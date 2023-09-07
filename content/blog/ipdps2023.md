@@ -23,28 +23,120 @@ keywords : [
 
 后疫情时代，航班还是比较稀缺的，只能从欧洲转机再飞到美国东海岸，来回都花掉了24小时的时间，非常疲惫。走的时候是晚上十点的飞机，辛苦老婆送我去浦东。
 
-![ipdps2023-1](/ipdps2023-1.jpg)
+
+<details><summary></summary><p>
+<img src="/ipdps2023-1.jpg" style="90%"/>
+</p></details>
 
 第一次坐14个小时的航班还是比较难熬的，所幸和一位法国大叔共享了三个座位，空间比较宽敞，喝了一点机上提供的白葡萄酒，断断续续的睡着也就过去了。
 
-![ipdps2023-2](/ipdps2023-2.jpg)
+<details><summary></summary><p>
+<img src="/ipdps2023-2.jpg" style="90%"/>
+<img src="/ipdps2023-6.jpg" style="90%"/>
+<img src="/ipdps2023-7.jpg" style="90%"/>
+<img src="/ipdps2023-8.jpg" style="90%"/>
+</p></details>
 
 第一站到了巴黎。凌晨六点，机场大部分门店还都没有开门，两个小时的转机时间非常充足，还认识了两位去美国参加女儿毕业典礼的热情阿姨，和她们一起聊天，她们还请我喝了星巴克。还品尝了老婆推荐的**LADUREE**超级甜的马卡龙，也买给了阿姨们品尝。
 
-![ipdps2023-3](/ipdps2023-3.jpg)
+<details><summary></summary><p>
+<img src="/ipdps2023-3.jpg" style="90%"/>
+<img src="/ipdps2023-9.jpg" style="90%"/>
+</p></details>
 
 在巴黎小憩一会儿后，匆匆踏上了第二段飞向纽约的航班。只有七个半小时，但是实在睡不着了，看了三部电影很快就到达了目的地。
 
-![ipdps2023-4](/ipdps2023-4.jpg)
+<details><summary></summary><p>
+<img src="/ipdps2023-4.jpg" style="90%"/>
+<img src="/ipdps2023-10.jpg" style="90%"/>
+<img src="/ipdps2023-11.jpg" style="90%"/>
+<img src="/ipdps2023-12.jpg" style="90%"/>
+</p></details>
 
 落地纽约后开始排长长的入境安检队伍，人不算特别多，一个小时就排到了。之前同学说入境莫名进了小黑屋，搞得我有点害怕，所幸遇到的安检官比较友好，三两句就放我进去了。
 
-![ipdps2023-5](/ipdps2023-5.jpg)
+<details><summary></summary><p>
+<img src="/ipdps2023-5.jpg" style="90%"/>
+</p></details>
 
 但是旅途还没有结束，入境纽约之后还要去转机飞会议城市，坦帕。入境的法航和之后的捷蓝航空不在一个航站楼，跟着指示做了各个航站楼之前穿梭的轻轨，美国根据航空公司划分航站楼的方式还是挺新颖的，好处就是在一个航站楼了不用费劲找对应航司的窗口了！
 
 境内航班是小小的飞机，类似国内大巴车的座位排列，空间非常紧凑，所幸时间只要两个小时，看着窗外的美利坚风景，很快便达到了旅途的最终站：坦帕圣彼得堡。
 
-# 会议见闻
+<details><summary></summary><p>
+<img src="/ipdps2023-13.jpg" style="90%"/>
+<img src="/ipdps2023-14.jpg" style="90%"/>
+<img src="/ipdps2023-15.jpg" style="90%"/>
+<img src="/ipdps2023-16.jpg" style="90%"/>
+</p></details>
 
-未完待续。
+# 坦帕见闻
+
+到达会议酒店的时候已经下午六点了，大家在举办小的欢迎聊天。很高兴一上来就见到了熟悉的华人面孔：两位来自当地南佛罗里达大学的博士生们！他们来会议现场做志愿者，对附近也比较熟悉，晚上带我们去吃了一家土耳其菜。我是第一次吃，感觉味道还可以，不是特别奇怪lol。
+
+<details><summary></summary><p>
+<img src="/ipdps2023-17.jpg" style="90%"/>
+<img src="/ipdps2023-18.jpg" style="90%"/>
+<img src="/ipdps2023-19.jpg" style="90%"/>
+<img src="/ipdps2023-20.jpg" style="90%"/>
+</p></details>
+
+吃完饭感觉到了旅途的疲惫，就早早回房间休息了。算了算一路上也奔波了三十个小时！美国的酒店和国内的不太一样，没有洗漱用品和拖鞋提供，非常不方便！但是每个房间都有浴缸，每天都可以泡澡哈哈。洗漱完就早睡觉了，没想到只睡了六七个小时，就被时差搞醒了…
+
+早上五点我和室友都被时差搞醒，怎么都睡不着了。索性不睡约好去海边看日出！出酒店的时候天还黑着，打Uber到了沙滩，这里的沙子真的是白色的！到的时候天边就已经有朝阳的色彩了，我们就一边聊着天，一边看着太阳一点点爬上来。眼睛看到的日出真的超级震撼，但是照片就显得太阳小小的，可能是光晕没有捕捉到吧。
+
+<details><summary></summary><p>
+<img src="/ipdps2023-21.jpg" style="90%"/>
+<img src="/ipdps2023-24.jpg" style="90%"/>
+<img src="/ipdps2023-23.jpg" style="90%"/>
+<img src="/ipdps2023-22.jpg" style="90%"/>
+<img src="/ipdps2023-25.jpg" style="90%"/>
+<img src="/ipdps2023-26.jpg" style="90%"/>
+</p></details>
+
+看完日出后我们就慢慢往酒店漫步，一路上遇到了很多晨练的美国人，还有一堆小松鼠和海鸟，环境着实不错！沿途还看到了房产中介的广告，房价是真的贵，佛州富人天堂名不虚传…早餐找了附近一家评分比较高的rooster尝尝，我按照店员推荐点了一份Norwegian和已被咖啡，加上税16.5刀…心痛的感觉…不过味道还是不错的，面饼包着鸡蛋和金枪鱼，还可以撒上蜂蜜，糖度爆表！
+
+<details><summary></summary><p>
+<img src="/ipdps2023-27.jpg" style="90%"/>
+<img src="/ipdps2023-30.jpg" style="90%"/>
+<img src="/ipdps2023-28.jpg" style="90%"/>
+<img src="/ipdps2023-29.jpg" style="90%"/>
+</p></details>
+
+上午在会议听了keynote和论文报告，很有启发。中午和同伴约着去了附近的超市感受下美国物价。离我们二百米就有一个Publix，貌似是美国的一个中低端超市，进去转了一圈对于美国物价大跌眼镜…根本没有之前说的那么便宜，甚至大部分物品的价格比国内都是要贵的。可乐和水差不多一样价格，蔬菜比肉还贵，对于美国的生活成本有了更真实的感受。并且超市里有三分之一都是冷冻食品，披萨鸡块，甚至还有冷冻蔬菜！（美国人民生活在水深火热.jpg）
+
+<details><summary></summary><p>
+<img src="/ipdps2023-31.jpg" style="90%"/>
+<img src="/ipdps2023-34.jpg" style="90%"/>
+<img src="/ipdps2023-32.jpg" style="90%"/>
+<img src="/ipdps2023-33.jpg" style="90%"/>
+</p></details>
+
+之后去了附近有名的达利DALI博物馆去参观！艺术细菌直接拉满，虽然没太看懂抽象的绘画元素组合…但是在博物馆偶遇了来参会的两位大版大学的博士生，有一位竟是和我一级的交大校友！从博物馆去觅食的路上，又遇到了四五个来自不同学校的华人同学，组成了一只浩浩荡荡的觅食队伍，最终去吃了……美国特色大汉堡lol
+
+<details><summary></summary><p>
+<img src="/ipdps2023-35.jpg" style="90%"/>
+<img src="/ipdps2023-36.jpg" style="90%"/>
+<img src="/ipdps2023-37.jpg" style="90%"/>
+<img src="/ipdps2023-38.jpg" style="90%"/>
+<img src="/ipdps2023-39.jpg" style="90%"/>
+<img src="/ipdps2023-40.jpg" style="90%"/>
+<img src="/ipdps2023-41.jpg" style="90%"/>
+<img src="/ipdps2023-42.jpg" style="90%"/>
+<img src="/ipdps2023-43.jpg" style="90%"/>
+</p></details>
+
+下午在会场听报告，但是会议日程结束的都好早，同行的同学们说一起去海滩看日落，我们就搭车去了比较有名的Siesta Beach白色沙滩！虽然是工作日，但是沙滩上满是在日光浴的男男女女，很是惬意。海水是绿色的，晴空万里，不愧是旅游胜地！晚饭去吃了一家Oyster Bar，很具有美国特色，我们三个人点了一份海鲜拼盘，感受海水的味道lol（想想都后怕，还好吃了这些晚上没有拉肚子…）
+
+饭后回到了沙滩，日落和日出一样震撼，天边像是被太阳染红了一样，驻足观赏了好久直到夕阳完全落下。
+
+<details><summary></summary><p>
+<img src="/ipdps2023-44.jpg" style="90%"/>
+<img src="/ipdps2023-45.jpg" style="90%"/>
+<img src="/ipdps2023-46.jpg" style="90%"/>
+<img src="/ipdps2023-47.jpg" style="90%"/>
+<img src="/ipdps2023-48.jpg" style="90%"/>
+<img src="/ipdps2023-49.jpg" style="90%"/>
+<img src="/ipdps2023-50.jpg" style="90%"/>
+</p></details>
+
