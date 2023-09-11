@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xinkai Wang</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Xinkai Wang</description>
+    <title>Posts on Xinkai Wang</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Xinkai Wang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://localhost:1313/posts/ipdps2023/</link>
@@ -36,63 +36,6 @@
 归！ 纽约特种兵旅游一天匆匆结束，怕安检时间过长，提前四个小时就来到了机场。人确实很多，排安检用了将近一个小时才排到，不过时间还足够。逛了下美国的免税店，大部分商品的价格都不是很美好，所以在JFK免税店什么都没有买。第一程到达阿姆斯特丹，是比较短暂的一段航程。在阿姆斯特丹要中转五个小时，所以有充足的时间逛各种商店，买了一些荷兰巧克力、华夫饼、还有同学带了杯子和玩偶，装满了一个手提袋。
 登上飞向浦东的航班后，还是点了一杯葡萄酒，很快便入睡了。这次行程比较舒适，到达浦东的时候身体感觉也不是特别疲惫。回国入境也比出国入境的时候方便多了，直接刷护照就可以过，听着熟悉的中文也让心情非常舒畅，经历七八天总算回家了！
 总结 感谢李老师的大力赞助，让从来没出过国的人第一次就能有这么丰富的美国之旅。这趟旅途中在会议上和大家学术交流的收获是一部分，更加有趣的是亲身了解美国的风土人情，极大的开阔了视野和提升了认知！</description>
-    </item>
-    
-    <item>
-      <title>Blogs</title>
-      <link>http://localhost:1313/blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/</guid>
-      <description>IPDPS 2023 见闻 | 2023-09-10</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/contact/</guid>
-      <description>Email: unbreakablewxk@sjtu.edu.cn Phone: +86-15201967357 Github Google Scholar Mailing Address 800 Dongchuan RD. Minhang District,
-Shanghai,
-China</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/project/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publication</title>
-      <link>http://localhost:1313/pub/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/pub/</guid>
-      <description>Publications Conference [C1] Xinkai Wang, Hao He, Yuancheng Li, Chao Li, Xiaofeng Hou, Jing Wang, Quan Chen, Jingwen Leng, Minyi Guo, and Leibo Wang “Not All Resources are Visible: Exploiting Fragmented Shadow Resources in Shared-State Scheduler Architecture”. ACM Symposium on Cloud Computing (SoCC), Oct. 2023
-[C2] Xinkai Wang, Chao Li, Lu Zhang, Xiaofeng Hou, Quan Chen, and Minyi Guo “Exploring Efficient Microservice Level Parallelism”. International Parallel and Distributed Processing Symposium (IPDPS), May.</description>
-    </item>
-    
-    <item>
-      <title>王鑫凯</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      <description>欢迎光临！
-我目前是二年级博士研究生，就读于上海交通大学计算机科学与工程系，导师是李超教授，在可持续计算架构实验室开展科研工作。我的研究兴趣是数据中心和云原生应用的体系结构优化。
-新闻 [2023.09] 一篇文章被SoCC 2023接收 [2022.12] 一篇文章被IPDPS 2023接收 [2021.12] 一篇文章被IPDPS 2022接收 教育经历 2021.09-2026.06 博士研究生 计算机科学与技术
-计算机科学与工程系，导师：李超教授，上海交通大学
-2017.09-2021.06 学士 计算机科学与技术
-计算机科学与工程系，致远工科荣誉计划，上海交通大学
-荣誉奖励 IPDPS 2023 参会补助，2023
-上海交通大学优秀毕业生, 上海交通大学, 2021
-杨元庆本科生卓越奖学金，A等优秀奖学金，致远荣誉奖学金等 上海交通大学, 本科
-论文成果 Xinkai Wang, Hao He, Yuancheng Li, Chao Li, Xiaofeng Hou, Jing Wang, Quan Chen, Jingwen Leng, Minyi Guo, and Leibo Wang “Not All Resources are Visible: Exploiting Fragmented Shadow Resources in Shared-State Scheduler Architecture”. ACM Symposium on Cloud Computing (SoCC), Oct.</description>
     </item>
     
   </channel>

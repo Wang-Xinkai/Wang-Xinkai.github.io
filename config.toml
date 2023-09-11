@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'Xinkai Wang'
 theme = "researcher"
 publishDir="docs"
+disableKinds = ["taxonomy", "term"]
+enableEmoji = true
 
 [params]
   author = "Xinkai"
@@ -52,4 +54,4 @@ publishDir="docs"
     weight = 5
 
 [markup.goldmark.renderer]
-  unsafe = true  # allow raw HTML in markdown files
+  unsafe = false  # allow raw HTML in markdown files
