@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Xinkai Wang</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://wang-xinkai.github.io/posts/</link>
     <description>Recent content in Posts on Xinkai Wang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://wang-xinkai.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/ipdps2023/</link>
+      <link>https://wang-xinkai.github.io/posts/ipdps2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/ipdps2023/</guid>
+      <guid>https://wang-xinkai.github.io/posts/ipdps2023/</guid>
       <description>5月份，在老师的慷慨赞助下，第一次来到美国参加人生中第一场学术会议。这次会议结识了很多小伙伴，领略了美国的风土人情，大大开阔了视野。
 漫长旅途 后疫情时代，航班还是比较稀缺的，只能从欧洲转机再飞到美国东海岸，来回都花掉了24小时的时间，非常疲惫。走的时候是晚上十点的飞机，辛苦老婆送我去浦东。
 第一次坐14个小时的航班还是比较难熬的，所幸和一位法国大叔共享了三个座位，空间比较宽敞，喝了一点机上提供的白葡萄酒，断断续续的睡着也就过去了。

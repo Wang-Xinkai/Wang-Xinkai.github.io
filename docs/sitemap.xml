@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/ipdps2023/</loc>
+    <loc>https://wang-xinkai.github.io/posts/ipdps2023/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://wang-xinkai.github.io/blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://wang-xinkai.github.io/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://wang-xinkai.github.io/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/project/</loc>
+    <loc>https://wang-xinkai.github.io/project/</loc>
   </url><url>
-    <loc>http://localhost:1313/pub/</loc>
+    <loc>https://wang-xinkai.github.io/pub/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://wang-xinkai.github.io/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://wang-xinkai.github.io/about/</loc>
   </url>
 </urlset>
