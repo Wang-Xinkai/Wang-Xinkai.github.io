@@ -42,7 +42,9 @@ My broader interests include emerging technologies and evolving applications tha
 
 ## 荣誉奖励
 
-+ **IPDPS 2023 参会补助**，2023
++ **SoCC 2023 参会奖励**，2023
+
++ **IPDPS 2023 参会奖励**，2023
 
 + **上海交通大学优秀毕业生**, 上海交通大学,  2021
 
@@ -97,7 +99,11 @@ My broader interests include emerging technologies and evolving applications tha
 
 #### 学术活动
 
-同行评审: ISCA 2022, HPCA 2022, ASPLOS 2022, MICRO 2022
+影子程序委员会成员：EuroSys 2024
+
+同行评审：TSUSC期刊
+
+协助同行评审: ISCA, HPCA, ASPLOS, MICRO
 
 #### 志愿服务
 

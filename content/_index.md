@@ -56,6 +56,8 @@ My broader interests include emerging technologies and evolving applications tha
 
 ## Honors and Awards
 
++ **SoCC 2023 Student Travel Grant**, 2023
+
 + **IPDPS 2023 Student Travel Grant**, 2023
 
 + **Outstanding Graduate**, Shanghai Jiao Tong University,  2021
@@ -110,7 +112,11 @@ My broader interests include emerging technologies and evolving applications tha
 
 #### Academic Services
 
-External Reviewer: ISCA 2022, HPCA 2022, ASPLOS 2022, MICRO 2022
+Shadow PC Member of EuroSys 2024
+
+Reviewer of TSUSC Journal
+
+External Reviewer: ISCA, HPCA, ASPLOS, MICRO 
 
 #### Volunteer Services
 
