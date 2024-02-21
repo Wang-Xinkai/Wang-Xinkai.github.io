@@ -6,7 +6,7 @@ title = "王鑫凯"
 
 {{< figure class="avatar" src="/photo.jpg" alt="avatar">}}
 
-我目前是二年级博士研究生，就读于上海交通大学计算机科学与工程系，导师是[李超教授](https://www.cs.sjtu.edu.cn/~lichao/cn/index-cn.html)，在[可持续计算架构实验室](https://www.cs.sjtu.edu.cn/sail/index-cn.html)开展科研工作。我的研究兴趣是数据中心和云原生应用的体系结构优化。
+我目前是三年级博士研究生，就读于上海交通大学计算机科学与工程系，导师是[李超教授](https://www.cs.sjtu.edu.cn/~lichao/cn/index-cn.html)，在[可持续计算架构实验室](https://www.cs.sjtu.edu.cn/sail/index-cn.html)开展科研工作。我的研究兴趣是数据中心和云原生应用的体系结构优化。
 
 ---
 

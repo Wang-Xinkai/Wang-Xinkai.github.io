@@ -7,7 +7,7 @@ title = "Xinkai Wang"
 {{< figure class="avatar" src="/photo.jpg" alt="avatar">}}
 
 Hi, I am Xinkai Wang. 
-Currently, I am a second-year Ph.D. student in Department of Computer Science and Engineering, Shanghai Jiao Tong University.
+Currently, I am a third-year Ph.D. student in Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 I am honored to be guided by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/index.html) in [Sustainable Architecture and Infrastructure Lab](https://www.cs.sjtu.edu.cn/sail/) (SAIL).
 My research interests includes datacenter optimization and cloud-native applications. I am currently working on enhancing architectural observability of datacenters.
 

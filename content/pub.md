@@ -7,7 +7,7 @@ title = "Publication"
 ### Conference
 [C1] **Xinkai Wang**, Hao He, Yuancheng Li, Chao Li, Xiaofeng Hou, Jing Wang, Quan Chen, Jingwen Leng, Minyi Guo, and Leibo Wang “Not All Resources are Visible: Exploiting Fragmented Shadow Resources in Shared-State Scheduler Architecture”. ACM Symposium on Cloud Computing (SoCC), Oct. 2023
 
-<!-- [[Paper](/xinkai_exploring_efficient_ipdps2022.pdf)] [[Slide](/ipdps22_session7_xinkai.pdf)] -->
+[[Paper](/xinkai_not_all_socc2023.pdf)] [[Slide](/xinkai_not_all_socc2023_slides.pdf)] [[Poster](/xinkai_not_all_socc2023_poster.pdf)]
 
 [C2] **Xinkai Wang**, Chao Li, Lu Zhang, Xiaofeng Hou, Quan Chen, and Minyi Guo “Exploring Efficient Microservice Level Parallelism”. International Parallel and Distributed Processing Symposium (IPDPS), May. 2022
 
@@ -16,6 +16,10 @@ title = "Publication"
 [C3] Lu Zhang, Chao Li, **Xinkai Wang**, Weiqi Feng, Zheng Yu, Quan Chen, Jingwen Leng, Minyi Guo, Pu Yang, and Shang Yue “FIRST: Exploiting the Multi-Dimensional Attributes of Functions for Power-Aware Serverless Computing”. International Parallel and Distributed Processing Symposium (IPDPS), May. 2023
 
 [[Paper](/luzhang_first_exploiting_ipdps2023.pdf)] [[Slide](/luzhang_first_exploiting_ipdps2023_slides.pdf)]
+
+[C4] Du Liu, Jing Wang, **Xinkai Wang**, Chao Li, Lu Zhang, Xiaofeng Hou, Xiaoxiang Shi, and Minyi Guo “Improving the Efficiency of Serverless Computing via Core-Level Power Management”. The 24th IEEE/ACM international Symposium on Cluster, Cloud and Internet Computing, May. 2024
+
+<!-- [[Paper](/luzhang_first_exploiting_ipdps2023.pdf)] [[Slide](/luzhang_first_exploiting_ipdps2023_slides.pdf)] -->
 
 
 <!-- [[Paper]] [[Slide]] -->
@@ -28,9 +32,12 @@ title = "Publication"
 
 [P2] Lu Zhang, Chao Li, Yechen Xu, Lingyu Sun, **Xinkai Wang**, Xiaofeng Hou, Quan Chen, Minyi Guo, "ABC: Power Synchronization for Serverless Functions". (Submitted to SC 2022) -->
 
-### Patents
-[P1] Chao Li, **Xinkai Wang**, Lingyu Sun, Qizheng lv. "Computational Harvesting-based Efficiency Solver of Autonomous Embedded Systems", *Chinese Patent,2023-11.*
+<!-- ### Patents
 
-[P2] Chao Li, **Xinkai Wang**, Lu Zhang, Zhexuan Chen, Quan Chen, Minyi Guo. "Request scheduler for multi-dimensional dynamic microservice-based applications", *Chinese Patent,2023-03.*
+[P1] Chao Li, Lingyu Sun, **Xinkai Wang**, . "Computational Harvesting-based Efficiency Solver of Autonomous Embedded Systems", *Chinese Patent,2023-11.*
 
-[P3] Chao Li, Lu Zhang, Weiqi Feng, Zheng Yu, **Xinkai Wang**, Minyi Guo. "Power management for serverless functions based on intermediate representation", *Chinese Patent,2021-06.*
+[P2] Chao Li, **Xinkai Wang**, Lingyu Sun, Qizheng lv. "Computational Harvesting-based Efficiency Solver of Autonomous Embedded Systems", *Chinese Patent,2023-11.*
+
+[P3] Chao Li, **Xinkai Wang**, Lu Zhang, Zhexuan Chen, Quan Chen, Minyi Guo. "Request scheduler for multi-dimensional dynamic microservice-based applications", *Chinese Patent,2023-03.*
+
+[P4] Chao Li, Lu Zhang, Weiqi Feng, Zheng Yu, **Xinkai Wang**, Minyi Guo. "Power management for serverless functions based on intermediate representation", *Chinese Patent,2021-06.* -->
