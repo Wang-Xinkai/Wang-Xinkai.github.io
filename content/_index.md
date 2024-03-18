@@ -14,6 +14,7 @@ My research interests includes datacenter optimization and cloud-native applicat
 ---
 
 ## News
++ [2024.03] One paper is accepted by [CCGRID 2024](https://2024.ccgrid-conference.org/)
 + [2023.09] One paper is accepted by [SoCC 2023](https://acmsocc.org/2023/)
 + [2022.12] One paper is accepted by [IPDPS 2023](https://www.ipdps.org/)
 + [2021.12] One paper is accepted by [IPDPS 2022](https://www.ipdps.org/)
@@ -83,7 +84,7 @@ My broader interests include emerging technologies and evolving applications tha
 
 #### Industrial Experiences
 
-+ 2023.02-2023.08 **Research Intern**, TRE Group, Alibaba
++ 2023.02-2023.08 **Research Intern**, Technology Risk and Efficiency Group, Alibaba
 + 2022.02-2022.05 **Research Intern**, [Systems Innovation Group](https://www.microsoft.com/en-us/research/group/systems-innovation/), MSRA   
 
     <!-- I worked on power-aware VM management. Per-VM power modeling, power-aware live migration,  -->
@@ -132,4 +133,4 @@ Tutors of the Freshmen of CSE Department
 
 + [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/en/)
 
-+ [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/index.html) (Advisor) Professor in the School of Electronic Information and Electrical Engineering – Shanghai Jiao Tong University
++ [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/index.html) (Advisor) Professor in the Department of Computer Science and Engineering – Shanghai Jiao Tong University

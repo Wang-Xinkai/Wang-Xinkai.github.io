@@ -2,7 +2,7 @@
 title = "Contact"
 +++
 
-* Email: [unbreakablewxk@sjtu.edu.cn](mailto:unbreakablewxk@sjtu.edu.cn)
+* Email: [unbreakablewxk@sjtu.edu.cn](mailto:unbreakablewxk@sjtu.edu.cn), [wang-xinkai@outlook.com](mailto:wang-xinkai@outlook.com)
 * Phone: [+86-15201967357](tel:+86-15201967357)
 * [Github](https://github.com/Wang-Xinkai)
 * [Google Scholar](https://scholar.google.com/citations?user=wunDE7MAAAAJ&hl=zh-CN)

@@ -11,6 +11,7 @@ title = "王鑫凯"
 ---
 
 ## 新闻
++ [2023.03] 一篇文章被[CCGRID 2024](https://2024.ccgrid-conference.org/)接收
 + [2023.09] 一篇文章被[SoCC 2023](https://acmsocc.org/2023/)接收
 + [2022.12] 一篇文章被[IPDPS 2023](https://www.ipdps.org/)接收
 + [2021.12] 一篇文章被[IPDPS 2022](https://www.ipdps.org/)接收
