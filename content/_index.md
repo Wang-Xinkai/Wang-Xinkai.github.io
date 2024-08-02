@@ -9,11 +9,12 @@ title = "Xinkai Wang"
 Hi, I am Xinkai Wang. 
 Currently, I am a third-year Ph.D. student in Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 I am honored to be guided by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/index.html) in [Sustainable Architecture and Infrastructure Lab](https://www.cs.sjtu.edu.cn/sail/) (SAIL).
-My research interests includes datacenter optimization and cloud-native applications. I am currently working on enhancing architectural observability of datacenters.
+My research interests includes datacenter analysis and optimization. I am currently working on enhancing hardware fault tolerance in datacenters.
 
 ---
 
 ## News
++ [2024.08] Three papers are accepted by [ICCD 2024](https://www.iccd-conf.com/Home.html), [RTSS 2024](https://2024.rtss.org/), and [TACO](https://dl.acm.org/journal/taco)
 + [2024.03] One paper is accepted by [CCGRID 2024](https://2024.ccgrid-conference.org/)
 + [2023.09] One paper is accepted by [SoCC 2023](https://acmsocc.org/2023/)
 + [2022.12] One paper is accepted by [IPDPS 2023](https://www.ipdps.org/)
@@ -72,11 +73,12 @@ My broader interests include emerging technologies and evolving applications tha
 
 ## Selected Publications 
 
-+ **Xinkai Wang**, Hao He, Yuancheng Li, Chao Li, Xiaofeng Hou, Jing Wang, Quan Chen, Jingwen Leng, Minyi Guo, and Leibo Wang  “Not All Resources are Visible: Exploiting Fragmented Shadow Resources in Shared-State Scheduler Architecture”. ACM Symposium on Cloud Computing (SoCC), Oct. 2023  
-<!-- [[Paper](/xinkai_exploring_efficient_ipdps2022.pdf)] -->
++ **Xinkai Wang**, Chao Li, Lingyu Sun, Qizheng Lv, Xiaofeng Hou, Jingwen Leng, and Minyi Guo “Continuous Energy Efficiency Optimization for Autonomous Embedded Systems Using Shadow Cycles”. International Conference on Computer Design (ICCD 2024)
+
++ **Xinkai Wang**, Hao He, Yuancheng Li, Chao Li, Xiaofeng Hou, Jing Wang, Quan Chen, Jingwen Leng, Minyi Guo, and Leibo Wang  “Not All Resources are Visible: Exploiting Fragmented Shadow Resources in Shared-State Scheduler Architecture”. ACM Symposium on Cloud Computing (SoCC 2023)  [[Paper](/xinkai_not_all_socc2023.pdf)]
 
 
-+ **Xinkai Wang**, Chao Li, Lu Zhang, Xiaofeng Hou, Quan Chen, and Minyi Guo “Exploring Efficient Microservice Level Parallelism”. International Parallel and Distributed Processing Symposium (IPDPS), May. 2022  [[Paper](/xinkai_exploring_efficient_ipdps2022.pdf)]
++ **Xinkai Wang**, Chao Li, Lu Zhang, Xiaofeng Hou, Quan Chen, and Minyi Guo “Exploring Efficient Microservice Level Parallelism”. International Parallel and Distributed Processing Symposium (IPDPS 2022)  [[Paper](/xinkai_exploring_efficient_ipdps2022.pdf)]
 
 ---
 
@@ -84,7 +86,7 @@ My broader interests include emerging technologies and evolving applications tha
 
 #### Industrial Experiences
 
-+ 2023.02-2023.08 **Research Intern**, Technology Risk and Efficiency Group, Alibaba
++ 2023.02-2023.08 **Research Intern**, Technology Risk Efficiency Group, Alibaba
 + 2022.02-2022.05 **Research Intern**, [Systems Innovation Group](https://www.microsoft.com/en-us/research/group/systems-innovation/), MSRA   
 
     <!-- I worked on power-aware VM management. Per-VM power modeling, power-aware live migration,  -->
