@@ -6,7 +6,7 @@ title = "王鑫凯"
 
 {{< figure class="avatar" src="/photo.jpg" alt="avatar">}}
 
-我目前是三年级博士研究生，就读于上海交通大学计算机科学与工程系，导师是[李超教授](https://www.cs.sjtu.edu.cn/~lichao/cn/index-cn.html)，在[可持续计算架构实验室](https://www.cs.sjtu.edu.cn/sail/index-cn.html)开展科研工作。我的研究兴趣是数据中心分析与优化。目前我在进行数据中心容错技术优化相关研究。
+我目前是四年级博士研究生，就读于上海交通大学计算机科学与工程系，导师是[李超教授](https://www.cs.sjtu.edu.cn/~lichao/cn/index-cn.html)，在[可持续计算架构实验室](https://www.cs.sjtu.edu.cn/sail/index-cn.html)和[新型并行计算研究中心](http://epcc.sjtu.edu.cn/)开展科研工作。我的研究兴趣是数据中心分析与优化。目前我在进行数据中心容错技术优化相关研究。
 
 ---
 
@@ -44,6 +44,8 @@ My broader interests include emerging technologies and evolving applications tha
 
 ## 荣誉奖励
 
++ **ICCD 2024 最佳论文提名奖**，2023
+
 + **SoCC 2023 参会奖励**，2023
 
 + **IPDPS 2023 参会奖励**，2023
@@ -59,7 +61,7 @@ My broader interests include emerging technologies and evolving applications tha
 
 ## 论文成果 
 
-+ **Xinkai Wang**, Chao Li, Lingyu Sun, Qizheng Lv, Xiaofeng Hou, Jingwen Leng, and Minyi Guo “Continuous Energy Efficiency Optimization for Autonomous Embedded Systems Using Shadow Cycles”. International Conference on Computer Design (ICCD 2024)
++ **Xinkai Wang**, Chao Li, Lingyu Sun, Qizheng Lv, Xiaofeng Hou, Jingwen Leng, and Minyi Guo “Continuous Energy Efficiency Optimization for Autonomous Embedded Systems Using Shadow Cycles”. International Conference on Computer Design (ICCD 2024, **最佳论文提名奖**)
 
 + **Xinkai Wang**, Hao He, Yuancheng Li, Chao Li, Xiaofeng Hou, Jing Wang, Quan Chen, Jingwen Leng, Minyi Guo, and Leibo Wang  “Not All Resources are Visible: Exploiting Fragmented Shadow Resources in Shared-State Scheduler Architecture”. ACM Symposium on Cloud Computing (SoCC 2023)  [[Paper](/xinkai_not_all_socc2023.pdf)]
 
@@ -110,7 +112,7 @@ My broader interests include emerging technologies and evolving applications tha
 
 #### 志愿服务
 
-志愿者，上海交大计算机系第二届杰出青年学者论坛
+志愿者，CCF CHIP 2024，IPDPS 2023
 
 兼职辅导员，计算机系2021级本科生思政
 

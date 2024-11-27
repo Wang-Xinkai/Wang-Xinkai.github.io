@@ -7,6 +7,9 @@ title = "Publication"
 ### Conference
 [C1] **Xinkai Wang**, Chao Li, Lingyu Sun, Qizheng Lv, Xiaofeng Hou, Jingwen Leng, and Minyi Guo “Continuous Energy Efficiency Optimization for Autonomous Embedded Systems Using Shadow Cycles”. International Conference on Computer Design (ICCD 2024)
 
+[[Paper](/xinkai_continuous_energy_iccd2024.pdf)] [[Slide](/xinkai_continuous_energy_iccd2024_slides.pdf)] 
+
+
 [C2] **Xinkai Wang**, Hao He, Yuancheng Li, Chao Li, Xiaofeng Hou, Jing Wang, Quan Chen, Jingwen Leng, Minyi Guo, and Leibo Wang “Not All Resources are Visible: Exploiting Fragmented Shadow Resources in Shared-State Scheduler Architecture”. ACM Symposium on Cloud Computing (SoCC 2023)
 
 [[Paper](/xinkai_not_all_socc2023.pdf)] [[Slide](/xinkai_not_all_socc2023_slides.pdf)] [[Poster](/xinkai_not_all_socc2023_poster.pdf)]
@@ -31,6 +34,7 @@ title = "Publication"
 ### Journal
 [J1] Lingyu Sun, Xiaofeng Hou, Chao Li, Jiacheng Liu, **Xinkai Wang**, Quan Chen, and Minyi Guo, “A2: Towards Accelerator Level Parallelism for Autonomous Micromobility Systems”, Transactions on Architecture and Code Optimization (TACO 2024)
 
+[[Paper](/lingyu_towards_accelerator_taco2024.pdf)]
 
 [J2] Du Liu, Lu Zhang, Yechen Xu, **Xinkai Wang**, Lingyu Sun, Yifei Pu, Xiaofeng Hou, Chao Li, and Minyi Guo, “Power Synchronization: Taming Massive Diversified Serverless Functions under Power Constraints”, SCIENCE CHINA Information Sciences (SCIS 2023)
 

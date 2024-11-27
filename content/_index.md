@@ -7,8 +7,8 @@ title = "Xinkai Wang"
 {{< figure class="avatar" src="/photo.jpg" alt="avatar">}}
 
 Hi, I am Xinkai Wang. 
-Currently, I am a third-year Ph.D. student in Department of Computer Science and Engineering, Shanghai Jiao Tong University.
-I am honored to be guided by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/index.html) in [Sustainable Architecture and Infrastructure Lab](https://www.cs.sjtu.edu.cn/sail/) (SAIL).
+Currently, I am a fourth-year Ph.D. student in Department of Computer Science and Engineering, Shanghai Jiao Tong University.
+I am honored to be guided by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/index.html) in [Sustainable Architecture and Infrastructure Lab](https://www.cs.sjtu.edu.cn/sail/) (SAIL) and [EPCC](http://epcc.sjtu.edu.cn/).
 My research interests includes datacenter analysis and optimization. I am currently working on enhancing hardware fault tolerance in datacenters.
 
 ---
@@ -58,6 +58,8 @@ My broader interests include emerging technologies and evolving applications tha
 
 ## Honors and Awards
 
++ **ICCD 2024 Best Paper Candidate**, 2024
+
 + **SoCC 2023 Student Travel Grant**, 2023
 
 + **IPDPS 2023 Student Travel Grant**, 2023
@@ -73,7 +75,7 @@ My broader interests include emerging technologies and evolving applications tha
 
 ## Selected Publications 
 
-+ **Xinkai Wang**, Chao Li, Lingyu Sun, Qizheng Lv, Xiaofeng Hou, Jingwen Leng, and Minyi Guo “Continuous Energy Efficiency Optimization for Autonomous Embedded Systems Using Shadow Cycles”. International Conference on Computer Design (ICCD 2024)
++ **Xinkai Wang**, Chao Li, Lingyu Sun, Qizheng Lv, Xiaofeng Hou, Jingwen Leng, and Minyi Guo “Continuous Energy Efficiency Optimization for Autonomous Embedded Systems Using Shadow Cycles”. International Conference on Computer Design (ICCD 2024, **Best Paper Candidate**) [[Paper](/xinkai_continuous_energy_iccd2024.pdf)]
 
 + **Xinkai Wang**, Hao He, Yuancheng Li, Chao Li, Xiaofeng Hou, Jing Wang, Quan Chen, Jingwen Leng, Minyi Guo, and Leibo Wang  “Not All Resources are Visible: Exploiting Fragmented Shadow Resources in Shared-State Scheduler Architecture”. ACM Symposium on Cloud Computing (SoCC 2023)  [[Paper](/xinkai_not_all_socc2023.pdf)]
 
