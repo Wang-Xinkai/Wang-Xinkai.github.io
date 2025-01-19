@@ -2,18 +2,19 @@
 title = "Xinkai Wang"
 +++
 
-<font size=5>Hello & Welcome!</font>
+<!-- <font size=5>Hello & Welcome!</font> -->
 
-{{< figure class="avatar" src="/photo.jpg" alt="avatar">}}
+{{< figure class="avatar" src="/photo-1.jpg" alt="avatar">}}
 
 Hi, I am Xinkai Wang. 
-Currently, I am a fourth-year Ph.D. student in Department of Computer Science and Engineering, Shanghai Jiao Tong University.
-I am honored to be guided by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/index.html) in [Sustainable Architecture and Infrastructure Lab](https://www.cs.sjtu.edu.cn/sail/) (SAIL) and [EPCC](http://epcc.sjtu.edu.cn/).
-My research interests includes datacenter analysis and optimization. I am currently working on enhancing hardware fault tolerance in datacenters.
+Currently, I am a fourth-year Ph.D. student in CSE Department, Shanghai Jiao Tong University. I am honored to be guided by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/index.html) in [Sustainable Architecture and Infrastructure Lab](https://www.cs.sjtu.edu.cn/sail/) (SAIL) and [EPCC Center](http://epcc.sjtu.edu.cn/). 
+
+My research focuses on more efficient and resilient system architecture design, especially on datacenter optimization, efficient facilities, and resilient architecture.
 
 ---
 
 ## News
+
 + [2024.08] Three papers are accepted by [ICCD 2024](https://www.iccd-conf.com/Home.html), [RTSS 2024](https://2024.rtss.org/), and [TACO](https://dl.acm.org/journal/taco)
 + [2024.03] One paper is accepted by [CCGRID 2024](https://2024.ccgrid-conference.org/)
 + [2023.09] One paper is accepted by [SoCC 2023](https://acmsocc.org/2023/)
@@ -22,30 +23,19 @@ My research interests includes datacenter analysis and optimization. I am curren
 
 ---
 
-<!-- ## Research Interest
-
-My primary research interests include architectural design and system optimization to improve performance and energy efficiency of different-size computing systems including unmanned systems and cloud systems.
-
-My broader interests include emerging technologies and evolving applications that could ultimately lead to the next-generation green computers. -->
-
 ## Education
 
 + 2021.09-2026.06 (Expected) **Ph.D. Candidate** in Computer Science
-    
-    Department of Computer Science and Engineering
+
+    CSE Department, Shanghai Jiao Tong University, China
 
     Supervised by Prof. [Chao Li](https://www.cs.sjtu.edu.cn/~lichao/index.html)
-    
-    Shanghai Jiao Tong University, China
 
 + 2017.09-2021.06 **B.S.** in Computer Science
-    
-    Department of Computer Science and Engineering
+
+    CSE Department, Shanghai Jiao Tong University, China
 
     *With Zhiyuan Honors Program of Engineering*
-
-
-    Shanghai Jiao Tong University, China
 
 <!-- + 2017.09-2021.06 **B.S.** in Zhiyuan Honors Program of Engineering
 
@@ -79,7 +69,6 @@ My broader interests include emerging technologies and evolving applications tha
 
 + **Xinkai Wang**, Hao He, Yuancheng Li, Chao Li, Xiaofeng Hou, Jing Wang, Quan Chen, Jingwen Leng, Minyi Guo, and Leibo Wang  “Not All Resources are Visible: Exploiting Fragmented Shadow Resources in Shared-State Scheduler Architecture”. ACM Symposium on Cloud Computing (SoCC 2023)  [[Paper](/xinkai_not_all_socc2023.pdf)]
 
-
 + **Xinkai Wang**, Chao Li, Lu Zhang, Xiaofeng Hou, Quan Chen, and Minyi Guo “Exploring Efficient Microservice Level Parallelism”. International Parallel and Distributed Processing Symposium (IPDPS 2022)  [[Paper](/xinkai_exploring_efficient_ipdps2022.pdf)]
 
 ---
@@ -88,6 +77,7 @@ My broader interests include emerging technologies and evolving applications tha
 
 #### Industrial Experiences
 
++ 2024.06-2024.12 **Research Intern**, Technology Risk Efficiency Group, Alibaba
 + 2023.02-2023.08 **Research Intern**, Technology Risk Efficiency Group, Alibaba
 + 2022.02-2022.05 **Research Intern**, [Systems Innovation Group](https://www.microsoft.com/en-us/research/group/systems-innovation/), MSRA   
 
@@ -101,15 +91,11 @@ My broader interests include emerging technologies and evolving applications tha
 
      I worked on agile deployment of running systems with K8S and ELK.  -->
 
-#### Teaching Experiences
+<!-- #### Teaching Experiences -->
 
-+ 2021.09-2022.01 **Teaching Assistant**, CS236, Cloud Computing Technology
+<!-- + 2021.09-2022.01 **Teaching Assistant**, CS236, Cloud Computing Technology -->
 
-    <!-- I worked on project scheduling -->
-
-+ 2019.09-2019.12 **Teaching Assistant**, CS359, Computer Architecture
-
-    <!-- I worked on homework arrangement -->
+<!-- + 2019.09-2019.12 **Teaching Assistant**, CS359, Computer Architecture -->
 
 ---
 
@@ -117,17 +103,38 @@ My broader interests include emerging technologies and evolving applications tha
 
 #### Academic Services
 
+Artifact Evaluation Committee of ASPLOS 2025
+
 Shadow PC Member of EuroSys 2024
 
-Reviewer of TSUSC Journal
+Reviewer of IEEE Transactions on Sustainable Computing (TSUSC)
 
-External Reviewer: ISCA, HPCA, ASPLOS, MICRO 
+Sub-Reviewer: ISCA, HPCA, ASPLOS, and MICRO 
+
+#### Professional Affiliations
+
+Student member of IEEE, ACM, and CCF.
 
 #### Volunteer Services
 
-Volunteer of the 2nd Excellent Young Scholar Forum of CSE Department
+Volunteer of CCF CHIPS 2024, IPDPS 2023, etc.
 
-Tutors of the Freshmen of CSE Department
+Tutors of the undergraduate of CSE Department
+
+<!-- ---
+
+## Mentoring
+
+Yiyang Li (B. 2022. Working on efficient AES )
+
+Chenyang Zhang (B. 2021. Colloborated on MICRO'25, Now Ph.D. at SJTU)
+
+Qizheng Lv (B. 2019. Colloborated on ICCD'24. Now M.S. at SJTU)
+
+Yiming Zhuansun (M. 2023. Working on CPU LLM serving.)
+
+Yuancheng Li (M. 2021. Colloborated on SoCC'23 and ASPLOS'25. Now at Alibaba) -->
+
 
 ---
 

@@ -2,11 +2,15 @@
 title = "王鑫凯"
 +++
 
-<font size=5>欢迎光临！</font>
+<!-- <font size=5>欢迎光临！</font> -->
 
-{{< figure class="avatar" src="/photo.jpg" alt="avatar">}}
+{{< figure class="avatar" src="/photo-1.jpg" alt="avatar">}}
 
-我目前是四年级博士研究生，就读于上海交通大学计算机科学与工程系，导师是[李超教授](https://www.cs.sjtu.edu.cn/~lichao/cn/index-cn.html)，在[可持续计算架构实验室](https://www.cs.sjtu.edu.cn/sail/index-cn.html)和[新型并行计算研究中心](http://epcc.sjtu.edu.cn/)开展科研工作。我的研究兴趣是数据中心分析与优化。目前我在进行数据中心容错技术优化相关研究。
+您好！
+
+我是王鑫凯，目前是四年级博士研究生，就读于上海交通大学计算机科学与工程系，导师是[李超教授](https://www.cs.sjtu.edu.cn/~lichao/cn/index-cn.html)，在[可持续计算架构实验室](https://www.cs.sjtu.edu.cn/sail/index-cn.html)和[新型并行计算研究中心](http://epcc.sjtu.edu.cn/)开展科研工作。
+
+我的研究兴趣是高效、可靠计算机系统架构，特别是大规模数据中心分析优化、高效系统工具设计以及高可靠硬件容错机制。
 
 ---
 
@@ -69,9 +73,9 @@ My broader interests include emerging technologies and evolving applications tha
 
 ---
 
-## 过往经历
+## 项目经历
 
-#### 公司经历
++ 2024.06-2024.12 **研究实习生**, 技术风险与效能部, 阿里巴巴 
 
 + 2023.02-2023.08 **研究实习生**, 技术风险与效能部, 阿里巴巴 
 
@@ -88,15 +92,11 @@ My broader interests include emerging technologies and evolving applications tha
 
      I worked on agile deployment of running systems with K8S and ELK.  -->
 
-#### 教学经历
+<!-- #### 教学经历 -->
 
-+ 2021.09-2022.01 **助教**, CS236, 云计算技术
+<!-- + 2021.09-2022.01 **助教**, CS236, 云计算技术 -->
 
-    <!-- I worked on project scheduling -->
-
-+ 2019.09-2019.12 **助教**, CS359, 计算机体系结构
-
-    <!-- I worked on homework arrangement -->
+<!-- + 2019.09-2019.12 **助教**, CS359, 计算机体系结构 -->
 
 ---
 
@@ -104,11 +104,17 @@ My broader interests include emerging technologies and evolving applications tha
 
 #### 学术活动
 
+AE委员会成员：ASPLOS 2025
+
 影子程序委员会成员：EuroSys 2024
 
-同行评审：TSUSC期刊
+同行评审：期刊 IEEE Transactions on Sustainable Computing（TSUSC）
 
 协助同行评审: ISCA, HPCA, ASPLOS, MICRO
+
+#### 专业团体
+
+学生会员，国际电气和电子工程师协会（IEEE），国际计算机学会（ACM），中国计算机学会（CCF）
 
 #### 志愿服务
 

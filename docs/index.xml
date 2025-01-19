@@ -50,11 +50,18 @@
       <description>Publications Conference [C1] Xinkai Wang, Chao Li, Lingyu Sun, Qizheng Lv, Xiaofeng Hou, Jingwen Leng, and Minyi Guo “Continuous Energy Efficiency Optimization for Autonomous Embedded Systems Using Shadow Cycles”. International Conference on Computer Design (ICCD 2024)&#xA;[Paper] [Slide]&#xA;[C2] Xinkai Wang, Hao He, Yuancheng Li, Chao Li, Xiaofeng Hou, Jing Wang, Quan Chen, Jingwen Leng, Minyi Guo, and Leibo Wang “Not All Resources are Visible: Exploiting Fragmented Shadow Resources in Shared-State Scheduler Architecture”.</description>
     </item>
     <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>Research Summary I have broad interests in computer architecture and systems. My research focuses on more efficient and resilient system architecture design. My current focused topics include:&#xA;Large-scale Datacenter Optimization: How to enhance the shared datacenters in &amp;hellip; LLM serving efficiency on scalable CPU with matrix acceleration units. [In submission] resource visibility in shared-state scheduler architecture. [SoCC&#39;23] request visibility of microservice-level parallelism. [IPDPS&#39;22] power-aware management of serverless computing systems. [IPDPS&#39;23, CCGRID&#39;24, SCIS&#39;25] Efficient Management Facilities: How to eliminate the additional costs of &amp;hellip; intra-service tracing facility for cloud datacenters.</description>
+    </item>
+    <item>
       <title>王鑫凯</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>欢迎光临！&#xA;我目前是四年级博士研究生，就读于上海交通大学计算机科学与工程系，导师是李超教授，在可持续计算架构实验室和新型并行计算研究中心开展科研工作。我的研究兴趣是数据中心分析与优化。目前我在进行数据中心容错技术优化相关研究。&#xA;新闻 [2024.08] 三篇文章被ICCD 2024, RTSS 2024和TACO接收 [2023.03] 一篇文章被CCGRID 2024接收 [2023.09] 一篇文章被SoCC 2023接收 [2022.12] 一篇文章被IPDPS 2023接收 [2021.12] 一篇文章被IPDPS 2022接收 教育经历 2021.09-2026.06 博士研究生 计算机科学与技术&#xA;计算机科学与工程系，导师：李超教授，上海交通大学&#xA;2017.09-2021.06 学士 计算机科学与技术&#xA;计算机科学与工程系，致远工科荣誉计划，上海交通大学&#xA;荣誉奖励 ICCD 2024 最佳论文提名奖，2023&#xA;SoCC 2023 参会奖励，2023&#xA;IPDPS 2023 参会奖励，2023&#xA;上海交通大学优秀毕业生, 上海交通大学, 2021&#xA;杨元庆本科生卓越奖学金，A等优秀奖学金，致远荣誉奖学金等 上海交通大学, 本科&#xA;论文成果 Xinkai Wang, Chao Li, Lingyu Sun, Qizheng Lv, Xiaofeng Hou, Jingwen Leng, and Minyi Guo “Continuous Energy Efficiency Optimization for Autonomous Embedded Systems Using Shadow Cycles”.</description>
+      <description>您好！&#xA;我是王鑫凯，目前是四年级博士研究生，就读于上海交通大学计算机科学与工程系，导师是李超教授，在可持续计算架构实验室和新型并行计算研究中心开展科研工作。&#xA;我的研究兴趣是高效、可靠计算机系统架构，特别是大规模数据中心分析优化、高效系统工具设计以及高可靠硬件容错机制。&#xA;新闻 [2024.08] 三篇文章被ICCD 2024, RTSS 2024和TACO接收 [2023.03] 一篇文章被CCGRID 2024接收 [2023.09] 一篇文章被SoCC 2023接收 [2022.12] 一篇文章被IPDPS 2023接收 [2021.12] 一篇文章被IPDPS 2022接收 教育经历 2021.09-2026.06 博士研究生 计算机科学与技术&#xA;计算机科学与工程系，导师：李超教授，上海交通大学&#xA;2017.09-2021.06 学士 计算机科学与技术&#xA;计算机科学与工程系，致远工科荣誉计划，上海交通大学&#xA;荣誉奖励 ICCD 2024 最佳论文提名奖，2023&#xA;SoCC 2023 参会奖励，2023&#xA;IPDPS 2023 参会奖励，2023&#xA;上海交通大学优秀毕业生, 上海交通大学, 2021&#xA;杨元庆本科生卓越奖学金，A等优秀奖学金，致远荣誉奖学金等 上海交通大学, 本科&#xA;论文成果 Xinkai Wang, Chao Li, Lingyu Sun, Qizheng Lv, Xiaofeng Hou, Jingwen Leng, and Minyi Guo “Continuous Energy Efficiency Optimization for Autonomous Embedded Systems Using Shadow Cycles”.</description>
     </item>
   </channel>
 </rss>
