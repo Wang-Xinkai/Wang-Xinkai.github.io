@@ -11,6 +11,8 @@ Currently, I am a fourth-year Ph.D. student in CSE Department, Shanghai Jiao Ton
 
 My research focuses on more efficient and resilient system architecture design, especially on datacenter optimization, efficient facilities, and resilient architecture.
 
+My latest resume is [here](/cv-xinkai-2501.pdf).
+
 ---
 
 ## News
