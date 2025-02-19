@@ -17,6 +17,7 @@ My latest resume is [here](/cv_2501.pdf).
 
 ## News
 
++ [2025.02] One paper is accepted by [ASPLOS 2025](https://www.asplos-conference.org/asplos2025/)
 + [2024.08] Three papers are accepted by [ICCD 2024](https://www.iccd-conf.com/Home.html), [RTSS 2024](https://2024.rtss.org/), and [TACO](https://dl.acm.org/journal/taco)
 + [2024.03] One paper is accepted by [CCGRID 2024](https://2024.ccgrid-conference.org/)
 + [2023.09] One paper is accepted by [SoCC 2023](https://acmsocc.org/2023/)
@@ -50,6 +51,8 @@ My latest resume is [here](/cv_2501.pdf).
 
 ## Honors and Awards
 
++ **ASPLOS 2025 Student Travel Grant**, 2025
+
 + **ICCD 2024 Best Paper Candidate**, 2024
 
 + **SoCC 2023 Student Travel Grant**, 2023
@@ -66,6 +69,8 @@ My latest resume is [here](/cv_2501.pdf).
 ---
 
 ## Selected Publications 
+
++ **Xinkai Wang**, Xiaofeng Hou, Chao Li, Lingyu Sun, Qizheng Lv, Xiaofeng Hou, Jingwen Leng, and Minyi Guo "EXIST: Enabling Extremely Efficient Intra-Service Tracing Observability in Datacenters". ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2025) [[Paper](/xinkai_continuous_energy_iccd2024.pdf)]
 
 + **Xinkai Wang**, Chao Li, Lingyu Sun, Qizheng Lv, Xiaofeng Hou, Jingwen Leng, and Minyi Guo “Continuous Energy Efficiency Optimization for Autonomous Embedded Systems Using Shadow Cycles”. International Conference on Computer Design (ICCD 2024, **Best Paper Candidate**) [[Paper](/xinkai_continuous_energy_iccd2024.pdf)]
 
