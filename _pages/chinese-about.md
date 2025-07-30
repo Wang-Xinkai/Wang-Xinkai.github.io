@@ -13,12 +13,13 @@ author_profile: true
 ---
 
 ## 新闻
++ [2025.05] 两篇文章被[APPT 2025](https://appt-conference.com/)接收
 + [2025.02] 一篇文章被[ASPLOS 2025](https://www.asplos-conference.org/asplos2025/)接收
 + [2024.08] 三篇文章被[ICCD 2024](https://www.iccd-conf.com/Home.html), [RTSS 2024](https://2024.rtss.org/)和[TACO](https://dl.acm.org/journal/taco)接收
 + [2023.03] 一篇文章被[CCGRID 2024](https://2024.ccgrid-conference.org/)接收
 + [2023.09] 一篇文章被[SoCC 2023](https://acmsocc.org/2023/)接收
-+ [2022.12] 一篇文章被[IPDPS 2023](https://www.ipdps.org/)接收
-+ [2021.12] 一篇文章被[IPDPS 2022](https://www.ipdps.org/)接收
+<!-- + [2022.12] 一篇文章被[IPDPS 2023](https://www.ipdps.org/)接收 -->
+<!-- + [2021.12] 一篇文章被[IPDPS 2022](https://www.ipdps.org/)接收 -->
 
 ---
 
@@ -44,8 +45,10 @@ My broader interests include emerging technologies and evolving applications tha
 
 ## 荣誉奖励
 
++ *2025.07* : **CCF Computility 2025博士生论坛最佳博士生报告奖**
++ *2025.07* : **CCF TCARCH Student Research Challenge研究生组冠军**
 + *2024.11* : **ICCD 2024 最佳论文提名奖** *(4 in 277)*
-+ *2023-2025* : **学生参会奖励** ASPLOS 2025, SoCC 2023, IPDPS 2023
++ *2023-2025* : **学生参会奖励** APPT 2025, ISCA 2025, ASPLOS 2025, SoCC 2023, IPDPS 2023
 + *2021.05* : **上海交通大学优秀毕业生** *(毕业生前15%)*
 + *本科期间* ： **杨元庆本科生卓越奖学金，A等优秀奖学金，致远荣誉奖学金等**
 
@@ -53,10 +56,12 @@ My broader interests include emerging technologies and evolving applications tha
 
 ## 论文成果 
 
-+ **Xinkai Wang**, Xiaofeng Hou, Chao Li, Lingyu Sun, Qizheng Lv, Xiaofeng Hou, Jingwen Leng, and Minyi Guo "EXIST: Enabling Extremely Efficient Intra-Service Tracing Observability in Datacenters". ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2025, CCF-A) [[论文](/files/xinkai-asplos2025.pdf)]
-+ **Xinkai Wang**, Chao Li, Lingyu Sun, Qizheng Lv, Xiaofeng Hou, Jingwen Leng, and Minyi Guo “SHEEO: Continuous Energy Efficiency Optimization for Autonomous Embedded Systems”. International Conference on Computer Design (ICCD 2024, **最佳论文提名奖**) [[论文](/files/xinkai_continuous_energy_iccd2024.pdf)]
-+ **Xinkai Wang**, Hao He, Yuancheng Li, Chao Li, Xiaofeng Hou, Jing Wang, Quan Chen, Jingwen Leng, Minyi Guo, and Leibo Wang  “Not All Resources are Visible: Exploiting Fragmented Shadow Resources in Shared-State Scheduler Architecture”. ACM Symposium on Cloud Computing (SoCC 2023)  [[论文](/files/xinkai_not_all_socc2023.pdf)]
-+ **Xinkai Wang**, Chao Li, Lu Zhang, Xiaofeng Hou, Quan Chen, and Minyi Guo “Exploring Efficient Microservice Level Parallelism”. International Parallel and Distributed Processing Symposium (IPDPS 2022)  [[论文](/files/xinkai_exploring_efficient_ipdps2022.pdf)]
+
++ **Xinkai Wang**, Xiaofeng Hou, Chao Li, Lingyu Sun, Qizheng Lv, Xiaofeng Hou, Jingwen Leng, and Minyi Guo "EXIST: Enabling Extremely Efficient Intra-Service Tracing Observability in Datacenters". ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2025, CCF-A, 160/912 acceptance rate=17.5%) [[论文](/files/xinkai_asymserve_appt2025.pdf)]
++ **Xinkai Wang**, Yiming Zhuansun, Chao Li, Jing Wang, Xiaofeng Hou, Lingyu Sun, Luping Wang, and Minyi Guo "AsymServe: Demystifying and Optimizing LLM Serving Efficiency on CPU Acceleration Units". International Symposium on Advanced Parallel Processing Technology (APPT 2025, 17/74 acceptance rate=23%) [[论文](/files/xinkai_asymserve_appt2025.pdf)]
++ **Xinkai Wang**, Chao Li, Lingyu Sun, Qizheng Lv, Xiaofeng Hou, Jingwen Leng, and Minyi Guo “SHEEO: Continuous Energy Efficiency Optimization for Autonomous Embedded Systems”. International Conference on Computer Design (ICCD 2024, CCF-B, **最佳论文提名奖**, 74/277 acceptance rate=26.7%) [[论文](/files/xinkai_continuous_energy_iccd2024.pdf)]
++ **Xinkai Wang**, Hao He, Yuancheng Li, Chao Li, Xiaofeng Hou, Jing Wang, Quan Chen, Jingwen Leng, Minyi Guo, and Leibo Wang  “Not All Resources are Visible: Exploiting Fragmented Shadow Resources in Shared-State Scheduler Architecture”. ACM Symposium on Cloud Computing (SoCC 2023, CCF-B, 40/133 acceptance rate=30%)  [[论文](/files/xinkai_not_all_socc2023.pdf)]
++ **Xinkai Wang**, Chao Li, Lu Zhang, Xiaofeng Hou, Quan Chen, and Minyi Guo “Exploring Efficient Microservice Level Parallelism”. International Parallel and Distributed Processing Symposium (IPDPS 2022, CCF-B, 123/474 acceptance rate=25.9%)  [[论文](/files/xinkai_exploring_efficient_ipdps2022.pdf)]
 
 ---
 
@@ -87,7 +92,7 @@ My broader interests include emerging technologies and evolving applications tha
 
 ### 学术活动
 
-+ AE委员会成员：ASPLOS 2025
++ AE委员会成员：ASPLOS 2025, OSDI 2025, ATC 2025
 + 影子程序委员会成员：EuroSys 2024
 + 同行评审：期刊 IEEE Transactions on Sustainable Computing（TSUSC）
 + 协助同行评审: ISCA, HPCA, ASPLOS, MICRO
@@ -98,8 +103,8 @@ My broader interests include emerging technologies and evolving applications tha
 
 ### 志愿服务
 
-+ 学生志愿者，CCF CHIP 2024，IPDPS 2023
-+ 兼职辅导员，计算机系2021级本科生思政
++ 学生志愿者，APPT 2025, CCF CHIP 2024，IPDPS 2023
++ 兼职辅导员，计算机系2021级本科生思政, 2021-2025
 
 ---
 

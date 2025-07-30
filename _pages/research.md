@@ -11,7 +11,7 @@ author_profile: true
 I have broad interests in computer architecture and systems. My research focuses on more efficient and resilient system architecture design. My current focused topics include:
 
 - **Large-scale Datacenter Optimization**: How to enhance the shared datacenters in ... 
-  - LLM serving efficiency on scalable CPU with matrix acceleration units.  [In submission]
+  - LLM serving efficiency on scalable CPU with matrix acceleration units.  [[APPT'25](/files/xinkai_asymserve_appt2025.pdf)]
   - resource visibility in shared-state scheduler architecture. [[SoCC'23](/files/xinkai_not_all_socc2023.pdf)]
   - request visibility of microservice-level parallelism. [[IPDPS'22](/files/xinkai_exploring_efficient_ipdps2022.pdf)]
   - power-aware management of serverless computing systems. [IPDPS'23, CCGRID'24, SCIS'25]
