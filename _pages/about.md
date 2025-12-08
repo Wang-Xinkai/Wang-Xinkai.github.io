@@ -11,15 +11,16 @@ redirect_from:
 Hi, I am Xinkai Wang. 
 Currently, I am a final-year Ph.D. student in School of Computer Science, Shanghai Jiao Tong University. I am honored to be guided by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/index.html) in [Sustainable Architecture and Infrastructure Lab](https://www.cs.sjtu.edu.cn/sail/) (SAIL) at [EPCC Center](http://epcc.sjtu.edu.cn/). I received my bachelor's degree with Zhiyuan honors from Shanghai Jiao Tong University in 2021.
 
-My research focuses on system architecture design with highly-efficient manageability, especially on efficiency-aware management systems and environment-aware management facilities. If you are interested in my project details and further collaborations, feel free to contact me.
+My research focuses on system architecture design with highly-efficient manageability, especially on efficiency-aware management systems and environment-aware management facilities. If you are interested in my project details and further collaborations, feel free to contact me!
 
 ## News
 
-+ [2025.11] One papers are accepted by [HPCA 2026](https://conf.researchr.org/home/hpca-2026)!
++ [2025.12] One paper is accepted by [TC 2026](https://www.computer.org/csdl/journal/tc)!
++ [2025.11] One paper is accepted by [HPCA 2026](https://conf.researchr.org/home/hpca-2026)!
 + [2025.11] Our papers is awarded the best student paper at [NPC 2025](https://npc-2025.github.io/index.html)!
 + [2025.05] Two papers are accepted by [APPT 2025](https://appt-conference.com/)!
 + [2025.02] One paper is accepted by [ASPLOS 2025](https://www.asplos-conference.org/asplos2025/)!
-+ [2024.08] Three papers are accepted by [ICCD 2024](https://www.iccd-conf.com/Home.html), [RTSS 2024](https://2024.rtss.org/), and [TACO](https://dl.acm.org/journal/taco)!
+<!-- + [2024.08] Three papers are accepted by [ICCD 2024](https://www.iccd-conf.com/Home.html), [RTSS 2024](https://2024.rtss.org/), and [TACO](https://dl.acm.org/journal/taco)! -->
 <!-- + [2024.03] One paper is accepted by [CCGRID 2024](https://2024.ccgrid-conference.org/)! -->
 <!-- + [2023.09] One paper is accepted by [SoCC 2023](https://acmsocc.org/2023/)! -->
 <!-- + [2022.12] One paper is accepted by [IPDPS 2023](https://www.ipdps.org/) -->
@@ -45,6 +46,9 @@ My research focuses on system architecture design with highly-efficient manageab
 + *Earlier* : **Yang Yuan Qing Excellent Undergraduate Scholarship, First-class Scholarship, Zhiyuan Scholarship, etc**
 
 ## Selected Publications 
+
++ **Xinkai Wang**, Chao Li, Yiyang Li, Lingyu Sun, Cheng Xu, Xiaofeng Hou, Jing Wang, Minyi Guo, and Yaqian Zhao. “Enabling Learning-Based Efficiency Optimizer with Shadow Cycles in Resource-Constrained Autonomous Embedded Systems”. IEEE Transactions on Computers (TC 2026, CCF-A, Impact Factor=3.8)
+
 
 + **Xinkai Wang**, Chao Li, Yiming Zhuansun, Jinyang Guo, Xiaofeng Hou, Jing Wang, Luping Wang, Weigao Chen, Cheng Huang, Guodong Yang, Liping Zhang, and Minyi Guo. “AUM: Unleashing the Efficiency Potential of Shared Processors with Accelerator Units for LLM Serving”. 32nd International Symposium on High-Performance Computer Architecture (HPCA 2026, CCF-A, 119/602 acceptance rate=19.7%) [[Paper](/files/xinkai_hpca2026.pdf)]
 

@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-Overall, I have published 13 papers in HPCA, ASPLOS, RTSS, TACO, SoCC, ICCD, IPDPS, etc., including 6 first-authored papers. Also, I have three first-authored papers in submission.
+Overall, I have published 14 papers in HPCA, ASPLOS, RTSS, TC, TACO, etc., including 7 first-authored papers. Also, I have two first-authored papers in submission.
 
 ### Conference
 
@@ -33,6 +33,9 @@ Overall, I have published 13 papers in HPCA, ASPLOS, RTSS, TACO, SoCC, ICCD, IPD
 [IPDPS'23] Lu Zhang, Chao Li, **Xinkai Wang**, Weiqi Feng, Zheng Yu, Quan Chen, Jingwen Leng, Minyi Guo, Pu Yang, and Shang Yue “[FIRST: Exploiting the Multi-Dimensional Attributes of Functions for Power-Aware Serverless Computing](https://doi.org/10.1109/IPDPS54959.2023.00091)”. International Parallel and Distributed Processing Symposium (IPDPS 2023, CCF-B) 
 
 ### Journal
+
+[TC'26] **Xinkai Wang**, Chao Li, Yiyang Li, Lingyu Sun, Cheng Xu, Xiaofeng Hou, Jing Wang, Minyi Guo, and Yaqian Zhao. “Enabling Learning-Based Efficiency Optimizer with Shadow Cycles in Resource-Constrained Autonomous Embedded Systems”. IEEE Transactions on Computers (TC 2026, CCF-A, Impact Factor=3.8)
+
 [TACO'24] Lingyu Sun, Xiaofeng Hou, Chao Li, Jiacheng Liu, **Xinkai Wang**, Quan Chen, and Minyi Guo, “[A2: Towards Accelerator Level Parallelism for Autonomous Micromobility Systems](https://doi.org/10.1145/3688611)”, Transactions on Architecture and Code Optimization (TACO 2024, CCF-A) 
 
 [SCIS'23] Du Liu, Lu Zhang, Yechen Xu, **Xinkai Wang**, Lingyu Sun, Yifei Pu, Xiaofeng Hou, Chao Li, and Minyi Guo, “[Power Synchronization: Taming Massive Diversified Serverless Functions under Power Constraints](https://doi.org/10.1007/s11432-022-3882-y)”, SCIENCE CHINA Information Sciences (SCIS 2023, CCF-A)

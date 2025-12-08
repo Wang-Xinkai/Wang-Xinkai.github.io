@@ -13,11 +13,13 @@ author_profile: true
 ---
 
 ## 新闻
+
++ [2025.12] 一篇文章被[TC 2026](https://www.computer.org/csdl/journal/tc)接收!
 + [2025.11] 一篇文章被[HPCA 2026](https://conf.researchr.org/home/hpca-2026)接收!
 + [2025.11] 一篇文章获评最佳学生论文奖 [NPC 2025](https://npc-2025.github.io/index.html)!
 + [2025.05] 两篇文章被[APPT 2025](https://appt-conference.com/)接收
 + [2025.02] 一篇文章被[ASPLOS 2025](https://www.asplos-conference.org/asplos2025/)接收
-+ [2024.08] 三篇文章被[ICCD 2024](https://www.iccd-conf.com/Home.html), [RTSS 2024](https://2024.rtss.org/)和[TACO](https://dl.acm.org/journal/taco)接收
+<!-- + [2024.08] 三篇文章被[ICCD 2024](https://www.iccd-conf.com/Home.html), [RTSS 2024](https://2024.rtss.org/)和[TACO](https://dl.acm.org/journal/taco)接收 -->
 <!-- + [2023.03] 一篇文章被[CCGRID 2024](https://2024.ccgrid-conference.org/)接收 -->
 <!-- + [2023.09] 一篇文章被[SoCC 2023](https://acmsocc.org/2023/)接收 -->
 <!-- + [2022.12] 一篇文章被[IPDPS 2023](https://www.ipdps.org/)接收 -->
@@ -60,7 +62,7 @@ My broader interests include emerging technologies and evolving applications tha
 
 ## 论文成果 
 
-
++ **Xinkai Wang**, Chao Li, Yiyang Li, Lingyu Sun, Cheng Xu, Xiaofeng Hou, Jing Wang, Minyi Guo, and Yaqian Zhao. “Enabling Learning-Based Efficiency Optimizer with Shadow Cycles in Resource-Constrained Autonomous Embedded Systems”. IEEE Transactions on Computers (TC 2026, CCF-A, Impact Factor=3.8)
 + **Xinkai Wang**, Chao Li, Yiming Zhuansun, Jinyang Guo, Xiaofeng Hou, Jing Wang, Luping Wang, Weigao Chen, Cheng Huang, Guodong Yang, Liping Zhang, and Minyi Guo. “AUM: Unleashing the Efficiency Potential of Shared Processors with Accelerator Units for LLM Serving”. 32nd International Symposium on High-Performance Computer Architecture (HPCA 2026, CCF-A, 119/602 acceptance rate=19.7%) [[Paper](/files/xinkai_hpca2026.pdf)]
 + **Xinkai Wang**, Xiaofeng Hou, Chao Li, Lingyu Sun, Qizheng Lv, Xiaofeng Hou, Jingwen Leng, and Minyi Guo "EXIST: Enabling Extremely Efficient Intra-Service Tracing Observability in Datacenters". ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2025, CCF-A, 160/912 acceptance rate=17.5%) [[Paper](/files/xinkai_asplos2025.pdf)]
 + **Xinkai Wang**, Yiming Zhuansun, Chao Li, Jing Wang, Xiaofeng Hou, Lingyu Sun, Luping Wang, and Minyi Guo "AsymServe: Demystifying and Optimizing LLM Serving Efficiency on CPU Acceleration Units". International Symposium on Advanced Parallel Processing Technology (APPT 2025, 17/74 acceptance rate=23%) [[Paper](/files/xinkai_asymserve_appt2025.pdf)]
