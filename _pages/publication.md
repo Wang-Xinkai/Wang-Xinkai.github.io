@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-Overall, I have published 14 papers in HPCA, ASPLOS, RTSS, TC, TACO, etc., including 7 first-authored papers. Also, I have two first-authored papers in submission.
+Overall, I have published 15 papers in HPCA, ASPLOS, RTSS, SCIS, TC, TACO, etc., including 8 first-authored papers (4 CCF-A, 4 CCF-B). Also, I have three CCF-A papers in submission.
 
 ### Conference
 
@@ -34,6 +34,9 @@ Overall, I have published 14 papers in HPCA, ASPLOS, RTSS, TC, TACO, etc., inclu
 
 ### Journal
 
+[SCIS'26] **Xinkai Wang**, Chao Li, Tianhao Huang, Jinyang Guo, Xiaofeng Hou, Guoyao Xu, Yuemin Wu, and Minyi Guo, “[Intra-service
+tracing for shared and stressed datacenters: efficient management and intelligent analysis](https://doi.org/xxx)”, SCIENCE CHINA Information Sciences (SCIS 2026, CCF-A, Chinese, Impact Factor=7.6)
+
 [TC'26] **Xinkai Wang**, Chao Li, Yiyang Li, Lingyu Sun, Cheng Xu, Xiaofeng Hou, Jing Wang, Minyi Guo, and Yaqian Zhao. “Enabling Learning-Based Efficiency Optimizer with Shadow Cycles in Resource-Constrained Autonomous Embedded Systems”. IEEE Transactions on Computers (TC 2026, CCF-A, Impact Factor=3.8)
 
 [TACO'24] Lingyu Sun, Xiaofeng Hou, Chao Li, Jiacheng Liu, **Xinkai Wang**, Quan Chen, and Minyi Guo, “[A2: Towards Accelerator Level Parallelism for Autonomous Micromobility Systems](https://doi.org/10.1145/3688611)”, Transactions on Architecture and Code Optimization (TACO 2024, CCF-A) 
@@ -45,12 +48,14 @@ Overall, I have published 14 papers in HPCA, ASPLOS, RTSS, TC, TACO, etc., inclu
 
 [P2] Lu Zhang, Chao Li, Yechen Xu, Lingyu Sun, **Xinkai Wang**, Xiaofeng Hou, Quan Chen, Minyi Guo, "ABC: Power Synchronization for Serverless Functions". (Submitted to SC 2022) -->
 
-<!-- ### Patents
+### Patents
 
-[P1] Chao Li, Lingyu Sun, **Xinkai Wang**, . "Computational Harvesting-based Efficiency Solver of Autonomous Embedded Systems", *Chinese Patent, 2023-11.*
+[P1] Chao Li, Hanzhang Yang, Jing Wang, **Xinkai Wang**, and Minyi Guo, Chinese Patent Granted, CN119728775B, 2025.
 
-[P2] Chao Li, **Xinkai Wang**, Lingyu Sun, Qizheng lv. "Computational Harvesting-based Efficiency Solver of Autonomous Embedded Systems", *Chinese Patent, 2023-11.*
+[P2] Chao Li, Lingyu Sun, **Xinkai Wang**, and Minyi Guo, Chinese Patent Granted, CN116842994B, 2024.
 
-[P3] Chao Li, **Xinkai Wang**, Lu Zhang, Zhexuan Chen, Quan Chen, Minyi Guo. "Request scheduler for multi-dimensional dynamic microservice-based applications", *Chinese Patent, 2023-03.*
+[P3] Chao Li, **Xinkai Wang**, Lingyu Sun, and Qizheng Lv, Chinese Patent Granted, CN116414556B, 2024.
 
-[P4] Chao Li, Lu Zhang, Weiqi Feng, Zheng Yu, **Xinkai Wang**, Minyi Guo. "Power management for serverless functions based on intermediate representation", *Chinese Patent, 2021-06.* -->
+[P4] Chao Li, **Xinkai Wang**, Lu Zhang, Zhexuan Chen, Quan Chen, and Minyi Guo, Chinese Patent Granted, CN114205419B, 2023.
+
+[P5] Chao Li, Lu Zhang, Weiqi Feng, Zheng Yu, **Xinkai Wang**, and Minyi Guo, Chinese Patent Granted, CN113238853B, 2021.
