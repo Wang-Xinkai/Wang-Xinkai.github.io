@@ -119,7 +119,7 @@ author_profile: true
 
 + **Artifact评审委员会**：HPCA 2026，ASPLOS 2025-2026，OSDI 2025，ATC 2025
 + **影子程序委员会**：EuroSys 2024
-+ **期刊审稿**：期刊 IEEE Transactions on Sustainable Computing（TSUSC）
++ **期刊审稿**：IEEE Transactions on Reliability (TR), IEEE Transactions on Sustainable Computing（TSUSC）
 <!-- + 协助同行评审: ISCA, HPCA, ASPLOS, MICRO -->
 
 ### 专业团体

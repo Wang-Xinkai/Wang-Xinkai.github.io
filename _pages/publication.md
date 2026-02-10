@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-Overall, I have published 15 papers in HPCA, ASPLOS, RTSS, SCIS, TC, TACO, etc., including 8 first-authored papers (4 CCF-A, 4 CCF-B). Also, I have three CCF-A papers in submission.
+Overall, I have published 15 papers in HPCA, ASPLOS, RTSS, SCIS, TC, TACO, etc., including 8 first-authored papers (4 CCF-A, 3 CCF-B). Also, I have three CCF-A papers in submission.
 
 ### Conference
 
@@ -14,7 +14,7 @@ Overall, I have published 15 papers in HPCA, ASPLOS, RTSS, SCIS, TC, TACO, etc.,
 
 [ASPLOS'25] **Xinkai Wang**, Xiaofeng Hou, Chao Li, Lingyu Sun, Qizheng Lv, Xiaofeng Hou, Jingwen Leng, and Minyi Guo "[EXIST: Enabling Extremely Efficient Intra-Service Tracing Observability in Datacenters](https://doi.org/10.1145/3676641.3716283)". ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2025, CCF-A, 160/912 acceptance rate=17.5%) [[Paper](/files/xinkai-asplos2025.pdf)] [[Slide](/files/xinkai_asplos2025.pdf)] 
 
-[APPT'25a] **Xinkai Wang**, Yiming Zhuansun, Chao Li, Jing Wang, Xiaofeng Hou, Lingyu Sun, Luping Wang, and Minyi Guo "AsymServe: Demystifying and Optimizing LLM Serving Efficiency on CPU Acceleration Units". International Symposium on Advanced Parallel Processing Technology (APPT 2025, 17/74 acceptance rate=23%) [[论文](/files/xinkai_asymserve_appt2025.pdf)]
+[APPT'25a] **Xinkai Wang**, Yiming Zhuansun, Chao Li, Jing Wang, Xiaofeng Hou, Lingyu Sun, Luping Wang, and Minyi Guo "AsymServe: Demystifying and Optimizing LLM Serving Efficiency on CPU Acceleration Units". International Symposium on Advanced Parallel Processing Technology (APPT 2025, CCF-C, 17/74 acceptance rate=23%) [[论文](/files/xinkai_asymserve_appt2025.pdf)]
 
 [ICCD'24] **Xinkai Wang**, Chao Li, Lingyu Sun, Qizheng Lv, Xiaofeng Hou, Jingwen Leng, and Minyi Guo “[SHEEO: Continuous Energy Efficiency Optimization for Autonomous Embedded Systems](https://doi.org/10.1109/ICCD63220.2024.00082)”. International Conference on Computer Design (ICCD 2024, CCF-B, Best Paper Candidate, 74/277 acceptance rate=26.7%) [[Paper](/files/xinkai_continuous_energy_iccd2024.pdf)] [[Slide](/files/xinkai_continuous_energy_iccd2024_slides.pdf)] 
 

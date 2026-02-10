@@ -98,7 +98,7 @@ My research focuses on system architecture design with highly-efficient manageab
 
 + **Artifact Evaluation Committee** : HPCA 2026, ASPLOS 2025-2026, OSDI 2025, ATC 2025
 + **Shadow PC** : EuroSys 2024
-+ **Reviewer** : IEEE Transactions on Sustainable Computing (TSUSC)
++ **Reviewer** : IEEE Transactions on Reliability (TR), IEEE Transactions on Sustainable Computing (TSUSC)
 <!-- + *Sub-Reviewer* : ISCA, HPCA, ASPLOS, and MICRO  -->
 
 ### Professional Affiliations
