@@ -11,7 +11,7 @@ redirect_from:
 Hi, I am Xinkai Wang. 
 Currently, I am a final-year Ph.D. student in School of Computer Science, Shanghai Jiao Tong University. I am honored to be guided by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/index.html) in [Sustainable Architecture and Intelligence Lab](https://www.cs.sjtu.edu.cn/sail/) (SAIL) at [Institute of Advanced Computing](http://epcc.sjtu.edu.cn/). I received my bachelor's degree with Zhiyuan honors from Shanghai Jiao Tong University in 2021.
 
-My research focuses on system architecture design with highly-efficient manageability, especially on efficiency-aware management systems and environment-aware management facilities. If you are interested in my project details and further collaborations, feel free to contact me!
+My research focuses on system architecture design with highly-efficient manageability, especially on efficiency-aware management systems and environment-aware management facilities. If you are interested in my project details and further collaborations, feel free to contact me! Here is my [Curriculum Vitae](/files/cv-latest.pdf).
 
 ## News
 
