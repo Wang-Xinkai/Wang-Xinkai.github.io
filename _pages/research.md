@@ -8,22 +8,32 @@ author_profile: true
 
 {% include base_path %}
 
-I have broad interests in computer architecture and systems. My research focuses on system architecture design with highly-efficient manageability, especially on efficiency-aware management systems and environment-aware management facilities. My current focused topics include:
+I work on computer architecture and systems, with a primary focus on efficient and resilient datacenter management optimization. My research asks how to model, observe, schedule, and harden emerging AI and cloud infrastructures under hardware heterogeneity, resource constraints, and frequent failures.
 
-- **Efficiency-Aware Management Systems**: How to pursue better energy efficiency via intelligent management for emerging applications? 
-  - *AI-native applications*, including heterogeneous LLM serving [[APPT'25a](/files/xinkai_asymserve_appt2025.pdf), [HPCA'26](/files/xinkai_hpca2026.pdf)] and autonomous systems [TACO'24, RTSS'24]
-  - *Cloud-native applications*, including microservice [[SoCC'23](/files/xinkai_not_all_socc2023.pdf), [IPDPS'22](/files/xinkai_exploring_efficient_ipdps2022.pdf)] and serverless computing [IPDPS'23, CCGRID'24, SCIS'25]
-- **Environment-Aware Management Facilities**: How to design better management facility via architectural support for
-varying environments？
-  - Power management in resource-constrained embedded systems. [[ICCD'24](/files/xinkai_continuous_energy_iccd2024.pdf), TC'26]
-  - Tracing observability in shared datacenter[[ASPLOS'25](/files/xinkai-asplos2025.pdf), SCIS'26]
-  - Failure tolerance in heterogeneous clusters[In submission]
-<!-- - **Resilient Architecture Design**: How to design low-cost hardware fault tolerance architecture for complex LLM training and serving workloads in future AI infrastructure? [Ongoing] -->
+## Research Themes
 
-<!-- ## Research Projects -->
++ **High Energy Efficiency**: modeling, allocating, and scheduling heterogeneous or constrained hardware resources to improve performance per watt.
+  + Processor-scale CPU-based LLM serving: [APPT'25a](/files/xinkai_asymserve_appt2025.pdf), [HPCA'26](/files/xinkai_hpca2026.pdf)
+  + Device-scale autonomous embedded systems: [ICCD'24](/files/xinkai_continuous_energy_iccd2024.pdf), [TC'26](/files/xinkai_tc26.pdf), TACO'24, RTSS'24
+  + Datacenter-scale cloud-native workloads: [SoCC'23](/files/xinkai_not_all_socc2023.pdf), [IPDPS'22](/files/xinkai_exploring_efficient_ipdps2022.pdf), IPDPS'23, SCIS'25
++ **High Resilience**: analyzing, detecting, and eliminating hardware and software failures to keep large-scale infrastructure stable.
+  + Low-overhead observability for shared datacenters: [ASPLOS'25](/files/xinkai_asplos2025.pdf), SCIS'26
+  + Efficient hardware fault tolerance for AI infrastructure: ongoing
++ **Agentic Infrastructure Management**: exploring agentic AI methods for CPU-centric infrastructure modeling, design-space exploration, and high-resilience management.
 
-<!-- - Workload-aware Reliability Enhancement of AI Infrastructure. *(Alibaba Innovative Research Program, 2025, Team Leader)* -->
-<!-- - Software-Hardware Co-optimization for Performance Bottleneck in AI Infrastructure. *(Alibaba Innovative Research Program, 2024, Team Leader)* -->
-<!-- - Performance Bottleneck Diagnosis Framework of Cloud-Native Infrastructure. *(Alibaba Innovative Research Program, 2023, Team Leader)* -->
-<!-- - Research for. *(NSFC Joint Fund for Regional Innovation and Development, 2024-2027, Participate)* -->
-<!-- - Research for. *(NSFC Excellent Young Scientists Fund, 2022-2024, Participate)* -->
+<!-- ## Research Projects
+
++ 2026-2027 **Team Leader**, AIS, Alibaba Cloud
+  + Modeling and Analysis of CPU-centric Agentic Infrastructure
++ 2026-2027 **Team Leader**, TRE, Alibaba
+  + Efficient Hardware Fault Tolerance in AI Infrastructure
+  + Technology is submitted to ASPLOS 2027 as first author.
++ 2025-2026 **Team Leader**, AIS, Alibaba Cloud
+  + Performance Modeling of Datacenter Shared Workloads for CPU Design
+  + Technology is submitted to ASPLOS 2027 as co-first author.
++ 2024-2025 **Team Leader**, TRE, Alibaba
+  + HW-SW Co-Optimization Technologies for Large-Scale AI Infrastructure
+  + Technology is published on HPCA 2026 and deployed in large-scale datacenters.
++ 2023-2024 **Research Intern**, TRE, Alibaba
+  + Performance Bottleneck Diagnosis for Cloud-Native Infrastructure
+  + Technology is published on ASPLOS 2025 and deployed in large-scale datacenters. -->

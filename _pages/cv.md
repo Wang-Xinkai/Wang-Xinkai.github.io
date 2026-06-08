@@ -11,54 +11,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+The latest PDF versions are available here:
 
-Work experience
+* [Curriculum Vitae (English)](/files/cv-latest.pdf)
+* [中文简历](/files/cv-chinese-latest.pdf)
+
+Education and Work
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2026.07-now: Postdoctoral Researcher, Shanghai Jiao Tong University
+  * Advisor: Prof. Minyi Guo
+* 2021.09-2026.06: Ph.D. in Computer Science, Shanghai Jiao Tong University
+  * Advisor: Prof. Chao Li
+  * Thesis: Optimizing datacenter manageability for low interference and high efficiency
+* 2025.10-2026.03: Visiting Scholar, Ghent University
+  * Advisor: Prof. Lieven Eeckhout
+* 2017.09-2021.06: B.Engr. in Computer Science, Shanghai Jiao Tong University
+  * Zhiyuan Honors Program of Engineering
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer architecture and systems
+* Efficient and reliable datacenter management optimization
+* Energy-efficient design exploration for agentic AI infrastructure
+* Agentic management for high-resilience infrastructure
+
+Selected Awards
+======
+* Outstanding Doctoral Graduate of SJTU, 2026
+* IFIP NPC 2025 Best Student Paper Award
+* APPT 2025 Distinguished Artifact Award
+* CCF Computility 2025 Ph.D. Forum Best Presentation Award
+* CCF TCARCH Student Research Challenge Graduate Track Champion
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+See the [full publication list](/publication/).
+
+Professional Activities
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Artifact Evaluation Committee: ISCA 2026, HPCA 2026, ASPLOS 2025-2026, OSDI 2025, ATC 2025
+* Shadow PC: EuroSys 2024
+* Reviewer: IEEE Transactions on Reliability, IEEE Transactions on Sustainable Computing
+* Student member: CCF, ACM, IEEE
